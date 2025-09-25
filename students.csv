@@ -1,0 +1,4 @@
+id,regNo,fullName,email,status,enrolledCourses,dateOfAdmission
+1,S001,Alice Smith,alice@mail.com,ACTIVE,CS101,2025-08-01
+2,S002,Bob Johnson,bob@mail.com,ACTIVE,CS101,2025-08-05
+3,S003,Charlie Brown,charlie@mail.com,INACTIVE,,2025-07-15
